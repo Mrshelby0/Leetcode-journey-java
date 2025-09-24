@@ -28,3 +28,5 @@
         int[] nums3 = {3, 3};
         int target3 = 6;
         System.out.println(Arrays.toString(twoSum(nums3, target3)));
+
+    }
